@@ -14,4 +14,4 @@ In order to use the project:
 - Select Artist Name
 - Select Album Name 
 - The Reults are shown into the folder Query Results
-- In order to use WordNet or TagMe uncomment the execute() methods
+- In order to use WordNet or TagMe uncomment the execute() methods; first to use TagMe ask for a temporary key sending an email to tagme@di.unipi.it to ask for a temporary key.
