@@ -1,4 +1,3 @@
-package TweetMicheleRoberto;
 
 import edu.stanford.nlp.sentiment.SentimentTraining;
 
